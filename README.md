@@ -1,2 +1,2 @@
 # IS1200
-School work
+The final project of the course IS1200 is included in this repository.
